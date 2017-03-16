@@ -19,58 +19,63 @@ homebrew_installed_packages:
   - autoconf
   - bash-completion
   - chromedriver
-  - doxygen
-  - gettext
-  - gifsicle
+  - docker
+  - docker-compose
+  - docker-machine
   - git
-  - go
-  - gpg
-  - hub
-  - httpie
-  - iperf
-  - libevent
+  - highlight
+  - pyenv
+  - pyenv-virtualenv
   - sqlite
-  - mcrypt
-  - nmap
-  - npm
-  - nvm
-  - ssh-copy-id
-  - cowsay
-  - readline
-  - openssl
-  - pv
-  - wget
-  - wrk
+  - unar
+  - zsh
+  - zsh-completions
 
 homebrew_taps:
   - homebrew/core
   - caskroom/cask
-  - homebrew/binary
-  - homebrew/dupes
-  - homebrew/php
-  - homebrew/versions
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - 1password
+  - android-file-transfer
+  - anki
+  - caffeine
+  - calibre
+  - dash
   - docker
   - dropbox
-  # - fing # Download link keeps getting changed, d'oh!
-  - firefox
+  - evernote
+  - filezilla
+  - folx
   - google-chrome
-  - handbrake
-  - licecap
-  - limechat
-  - macvim
-  - nvalt
-  - sequel-pro
-  - skitch
+  - iterm2
+  - java
+  - kindlegen
+  - messenger
+  - parallels-desktop
+  - pycharm
+  - qlcolorcode
+  - qlmarkdown
+  - qlprettypatch
+  - qlstephen
+  - quicklook-csv
+  - quicklook-json
+  - skype
   - slack
-  - sublime-text
-  - transmit
-  - vagrant
+  - spectacle
+  - steam
+  - the-unarchiver
   - virtualbox
+  - vlcaudacity
+  - webpquicklookbartender
+  - zoom
 
 # See `geerlingguy.mas` role documentation for usage instructions.
-mas_installed_apps: []
-mas_email: ""
+mas_installed_apps:
+  - { id: 443987910, name: "1Password" }
+  - { id: 585829637, name: "Todoist" }
+  - { id: 557168941, name: "Tweetbot" }
+  - { id: 497799835, name: "Xcode" }
+mas_email: "ramiro.314@gmail.com"
 mas_password: ""
