@@ -1,0 +1,596 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Dev/kruger" />
+        <option value="$USER_HOME$/Dev/crane_service" />
+        <option value="$USER_HOME$/Dev/harrier_service" />
+        <option value="$USER_HOME$/Dev/spider_util" />
+        <option value="$USER_HOME$/Dev/hippo_service" />
+        <option value="$USER_HOME$/Dev/ocelot_service" />
+        <option value="$USER_HOME$/Dev/impala_service" />
+        <option value="$USER_HOME$/Dev/rhino_service" />
+        <option value="$USER_HOME$/Dev/mongoose_service" />
+        <option value="$USER_HOME$/Dev/yellow-hat" />
+        <option value="$USER_HOME$/Dev/springbok_service" />
+        <option value="$USER_HOME$/Dev/terrapin_service" />
+        <option value="$USER_HOME$/Dev/lark_service" />
+        <option value="$USER_HOME$/Dev/pelican_service" />
+        <option value="$USER_HOME$/Dev/gannet_service" />
+        <option value="$USER_HOME$/Dev/grebe_service" />
+        <option value="$USER_HOME$/Dev/yacare_service" />
+        <option value="$USER_HOME$/Dev/finch_service" />
+        <option value="$USER_HOME$/Dev/boomslang_service" />
+        <option value="$USER_HOME$/Dev/chameleon_service" />
+        <option value="$USER_HOME$/Dev/flamingo_service" />
+        <option value="$USER_HOME$/Dev/oryx_service" />
+        <option value="$USER_HOME$/Dev/octopus_service" />
+        <option value="$USER_HOME$/Dev/tiger_service" />
+        <option value="$USER_HOME$/Dev/mythos_dash" />
+        <option value="$USER_HOME$/Dev/eagle_service" />
+        <option value="$USER_HOME$/Dev/osprey_service" />
+        <option value="$USER_HOME$/Dev/truss_service" />
+        <option value="$USER_HOME$/Dev/insight" />
+        <option value="$USER_HOME$/Dev/cheetah_service" />
+        <option value="$USER_HOME$/Dev/hyena_service" />
+        <option value="$USER_HOME$/Dev/acuibackend" />
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+        <option value="$USER_HOME$/Dev/swarm-quarry-miners" />
+        <option value="$USER_HOME$/Dev/labsfacebook" />
+        <option value="$USER_HOME$/Dev/qa_tool" />
+        <option value="$USER_HOME$/Dev/stork_service" />
+        <option value="$USER_HOME$/Dev/henkaku-1.0" />
+        <option value="$USER_HOME$/Dev/rebar_tool" />
+        <option value="$USER_HOME$/Dev/rebar" />
+        <option value="$USER_HOME$/Dev/acui_ms" />
+        <option value="$USER_HOME$/Dev/peregrine_service" />
+        <option value="$USER_HOME$/PycharmProjects/tosplugs" />
+        <option value="$USER_HOME$/Dev/mpa" />
+      </list>
+    </option>
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Dev/acui_ms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.1504" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1468278828715" />
+              <option name="buildTimestamp" value="1464145200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/acuibackend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1478480357617" />
+              <option name="buildTimestamp" value="1473217200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/boomslang_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486229563057" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/chameleon_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485912760419" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/cheetah_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.9735.8" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483023974561" />
+              <option name="buildTimestamp" value="1481732489431" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/crane_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1488163873829" />
+              <option name="buildTimestamp" value="1482942007698" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/eagle_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485285571998" />
+              <option name="buildTimestamp" value="1482942018602" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/finch_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486406329119" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/flamingo_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485907097838" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/gannet_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486598896809" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/grebe_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486598869627" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/harrier">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.1504" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464743183744" />
+              <option name="buildTimestamp" value="1464159600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/harrier_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487975002185" />
+              <option name="buildTimestamp" value="1482942038065" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/henkaku-1.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1237.1" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1470579816836" />
+              <option name="buildTimestamp" value="1468983600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/hippo_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487824005492" />
+              <option name="buildTimestamp" value="1482942038065" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/hyena_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.9735.8" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482153773061" />
+              <option name="buildTimestamp" value="1481732489431" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/impala">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.971" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463704278426" />
+              <option name="buildTimestamp" value="1462258800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/impala_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487824000592" />
+              <option name="buildTimestamp" value="1482942038065" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/insight">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.9735.8" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483133691807" />
+              <option name="buildTimestamp" value="1481732489431" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/kruger">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1488163903258" />
+              <option name="buildTimestamp" value="1482942007698" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/kruger_library">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.1504" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465251775129" />
+              <option name="buildTimestamp" value="1464159600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/labsfacebook">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1475693755004" />
+              <option name="buildTimestamp" value="1473217200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/lark_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486598941693" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/lele">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.1504" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1469030188441" />
+              <option name="buildTimestamp" value="1464145200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/mongoose_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487009726409" />
+              <option name="buildTimestamp" value="1482942002779" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/mpa">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.1504" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464300125794" />
+              <option name="buildTimestamp" value="1464159600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/mythos_dash">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485285577738" />
+              <option name="buildTimestamp" value="1482942018602" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/ocelot_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487824003704" />
+              <option name="buildTimestamp" value="1482942038065" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/octopus_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485364245146" />
+              <option name="buildTimestamp" value="1482942047172" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/oryx_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485907096120" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/osprey_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485130094712" />
+              <option name="buildTimestamp" value="1482942018602" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/pelican_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486598929584" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/peregrine_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.1504" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467929000216" />
+              <option name="buildTimestamp" value="1464145200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/qa_tool">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1628.8" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1472592759181" />
+              <option name="buildTimestamp" value="1470207600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/rebar">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.1504" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1469022356412" />
+              <option name="buildTimestamp" value="1464145200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/rebar_tool">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1237.1" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1470421880190" />
+              <option name="buildTimestamp" value="1468983600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/rhino_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487009727795" />
+              <option name="buildTimestamp" value="1482942002779" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/spider_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.1504" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465924645590" />
+              <option name="buildTimestamp" value="1464159600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/spider_util">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487975000977" />
+              <option name="buildTimestamp" value="1482942038065" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/springbok_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487009717204" />
+              <option name="buildTimestamp" value="1482942002779" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/stork_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1628.8" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1472087017949" />
+              <option name="buildTimestamp" value="1470207600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/swarm-quarry-miners">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1475946833252" />
+              <option name="buildTimestamp" value="1473217200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/terrapin_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486598959710" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/tiger_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485364193515" />
+              <option name="buildTimestamp" value="1482942047172" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/truss_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484955992608" />
+              <option name="buildTimestamp" value="1482942018602" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/yacare_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486408186554" />
+              <option name="buildTimestamp" value="1482942009309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/yellow-hat">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-163.10154.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487009726046" />
+              <option name="buildTimestamp" value="1482942002779" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/tosplugs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.1504" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464662423072" />
+              <option name="buildTimestamp" value="1464159600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1477873276093" />
+              <option name="buildTimestamp" value="1473217200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Dev" />
+  </component>
+</application>

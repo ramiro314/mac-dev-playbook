@@ -1,4 +1,4 @@
 ---
-- name: geerlingguy.dotfiles
-- name: geerlingguy.homebrew
-- name: geerlingguy.mas
+- name: ramiro314.dotfiles
+- name: ramiro314.homebrew
+- name: ramiro314.mas

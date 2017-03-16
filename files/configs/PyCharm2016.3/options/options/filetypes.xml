@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="config" type="Lua" />
+      <mapping pattern="setup" type="Lua" />
+      <mapping pattern="relgo" type="Lua" />
+      <mapping pattern="miner" type="Lua" />
+      <mapping pattern="swarm" type="Lua" />
+      <mapping pattern="json" type="Lua" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="ctmpl" type="PLAIN_TEXT" />
+      <mapping pattern="*.yml.ctmpl" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

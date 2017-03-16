@@ -1,0 +1,486 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="hippo_service" values="ECMAScript 5.1" collectionTime="1487975000975" />
+      <project id="harrier_service" values="ECMAScript 5.1" collectionTime="1487975002981" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1477947340215" />
+      <project id="mongoose_service" values="ECMAScript 5.1" collectionTime="1487009727111" />
+      <project id="eagle_service" values="ECMAScript 5.1" collectionTime="1485285573043" />
+      <project id="truss_service" values="ECMAScript 5.1" collectionTime="1485285575724" />
+      <project id="insight" values="ECMAScript 5.1" collectionTime="1483207016720" />
+      <project id="finch_service" values="ECMAScript 5.1" collectionTime="1486598920730" />
+      <project id="harrier" values="ECMAScript 5.1" collectionTime="1464990409923" />
+      <project id="rebar" values="ECMAScript 5.1" collectionTime="1469025285941" />
+      <project id="peregrine_service" values="ECMAScript 5.1" collectionTime="1467929339620" />
+      <project id="swarm-quarry-miners" values="ECMAScript 5.1" collectionTime="1476745562506" />
+      <project id="kruger_library" values="ECMAScript 5.1" collectionTime="1465251863734" />
+      <project id="acui_ms" values="ECMAScript 5.1" collectionTime="1468278834896" />
+      <project id="spider_service" values="ECMAScript 5.1" collectionTime="1465939922612" />
+      <project id="lark_service" values="ECMAScript 5.1" collectionTime="1486598946401" />
+      <project id="spider_util" values="ECMAScript 5.1" collectionTime="1487975001599" />
+      <project id="terrapin_service" values="ECMAScript 5.1" collectionTime="1486681949094" />
+      <project id="cheetah_service" values="ECMAScript 5.1" collectionTime="1483032541623" />
+      <project id="ocelot_service" values="ECMAScript 5.1" collectionTime="1487975002184" />
+      <project id="stork_service" values="ECMAScript 5.1" collectionTime="1472087026107" />
+      <project id="hyena_service" values="ECMAScript 5.1" collectionTime="1482461686111" />
+      <project id="chameleon_service" values="ECMAScript 5.1" collectionTime="1486229554180" />
+      <project id="rebar_tool" values="ECMAScript 5.1" collectionTime="1470426862048" />
+      <project id="grebe_service" values="ECMAScript 5.1" collectionTime="1486598884057" />
+      <project id="yacare_service" values="ECMAScript 5.1" collectionTime="1486426657743" />
+      <project id="crane_service" values="ECMAScript 5.1" collectionTime="1488163903254" />
+      <project id="yellow-hat" values="ECMAScript 5.1" collectionTime="1487009726408" />
+      <project id="flamingo_service" values="ECMAScript 5.1" collectionTime="1485906561758" />
+      <project id="octopus_service" values="ECMAScript 5.1" collectionTime="1485364245582" />
+      <project id="gannet_service" values="ECMAScript 5.1" collectionTime="1486598912678" />
+      <project id="kruger" values="ECMAScript 5.1" collectionTime="1488163903975" />
+      <project id="osprey_service" values="ECMAScript 5.1" collectionTime="1485285570066" />
+      <project id="oryx_service" values="ECMAScript 5.1" collectionTime="1485906561742" />
+      <project id="pelican_service" values="ECMAScript 5.1" collectionTime="1486598941692" />
+      <project id="qa_tool" values="ECMAScript 5.1" collectionTime="1472593774484" />
+      <project id="impala_service" values="ECMAScript 5.1" collectionTime="1487975000192" />
+      <project id="boomslang_service" values="ECMAScript 5.1" collectionTime="1486229586941" />
+      <project id="springbok_service" values="ECMAScript 5.1" collectionTime="1486862984076" />
+      <project id="mpa" values="ECMAScript 5.1" collectionTime="1464370444746" />
+      <project id="lele" values="ECMAScript 5.1" collectionTime="1469030255472" />
+      <project id="tosplugs" values="ECMAScript 5.1" collectionTime="1464903883887" />
+      <project id="rhino_service" values="ECMAScript 5.1" collectionTime="1487009728671" />
+      <project id="mythos_dash" values="ECMAScript 5.1" collectionTime="1485285579513" />
+      <project id="impala" values="ECMAScript 5.1" collectionTime="1463704660558" />
+      <project id="labsfacebook" values="ECMAScript 5.1" collectionTime="1475706054752" />
+      <project id="tiger_service" values="ECMAScript 5.1" collectionTime="1485364242301" />
+    </group>
+    <group name="module type">
+      <project id="hippo_service" values="PYTHON_MODULE" collectionTime="1487975000966" />
+      <project id="harrier_service" values="PYTHON_MODULE" collectionTime="1487975002973" />
+      <project id="untitled" values="PYTHON_MODULE" collectionTime="1477947340086" />
+      <project id="mongoose_service" values="PYTHON_MODULE" collectionTime="1487009727094" />
+      <project id="eagle_service" values="PYTHON_MODULE" collectionTime="1485285573018" />
+      <project id="truss_service" values="PYTHON_MODULE" collectionTime="1485285575719" />
+      <project id="insight" values="PYTHON_MODULE" collectionTime="1483207016654" />
+      <project id="finch_service" values="PYTHON_MODULE" collectionTime="1486598920727" />
+      <project id="harrier" values="PYTHON_MODULE" collectionTime="1464990409831" />
+      <project id="rebar" values="PYTHON_MODULE" collectionTime="1469025285850" />
+      <project id="peregrine_service" values="PYTHON_MODULE" collectionTime="1467929339497" />
+      <project id="swarm-quarry-miners" values="PYTHON_MODULE" collectionTime="1476745562374" />
+      <project id="kruger_library" values="PYTHON_MODULE" collectionTime="1465251863728" />
+      <project id="acui_ms" values="PYTHON_MODULE" collectionTime="1468278834873" />
+      <project id="spider_service" values="PYTHON_MODULE" collectionTime="1465939922513" />
+      <project id="lark_service" values="PYTHON_MODULE" collectionTime="1486598946397" />
+      <project id="spider_util" values="PYTHON_MODULE" collectionTime="1487975001591" />
+      <project id="terrapin_service" values="PYTHON_MODULE" collectionTime="1486681949088" />
+      <project id="cheetah_service" values="PYTHON_MODULE" collectionTime="1483032541578" />
+      <project id="ocelot_service" values="PYTHON_MODULE" collectionTime="1487975002171" />
+      <project id="stork_service" values="PYTHON_MODULE" collectionTime="1472087026102" />
+      <project id="hyena_service" values="PYTHON_MODULE" collectionTime="1482461686106" />
+      <project id="chameleon_service" values="PYTHON_MODULE" collectionTime="1486229554171" />
+      <project id="rebar_tool" values="PYTHON_MODULE" collectionTime="1470426862044" />
+      <project id="grebe_service" values="PYTHON_MODULE" collectionTime="1486598884046" />
+      <project id="yacare_service" values="PYTHON_MODULE" collectionTime="1486426657737" />
+      <project id="crane_service" values="PYTHON_MODULE" collectionTime="1488163903122" />
+      <project id="yellow-hat" values="PYTHON_MODULE" collectionTime="1487009726394" />
+      <project id="flamingo_service" values="PYTHON_MODULE" collectionTime="1485906561753" />
+      <project id="octopus_service" values="PYTHON_MODULE" collectionTime="1485364245578" />
+      <project id="gannet_service" values="PYTHON_MODULE" collectionTime="1486598912674" />
+      <project id="kruger" values="PYTHON_MODULE" collectionTime="1488163903879" />
+      <project id="osprey_service" values="PYTHON_MODULE" collectionTime="1485285570056" />
+      <project id="oryx_service" values="PYTHON_MODULE" collectionTime="1485906561738" />
+      <project id="pelican_service" values="PYTHON_MODULE" collectionTime="1486598941687" />
+      <project id="qa_tool" values="PYTHON_MODULE" collectionTime="1472593774471" />
+      <project id="impala_service" values="PYTHON_MODULE" collectionTime="1487975000004" />
+      <project id="boomslang_service" values="PYTHON_MODULE" collectionTime="1486229586937" />
+      <project id="springbok_service" values="PYTHON_MODULE" collectionTime="1486862984060" />
+      <project id="mpa" values="PYTHON_MODULE" collectionTime="1464370444561" />
+      <project id="lele" values="PYTHON_MODULE" collectionTime="1469030255397" />
+      <project id="tosplugs" values="PYTHON_MODULE" collectionTime="1464903883881" />
+      <project id="rhino_service" values="PYTHON_MODULE" collectionTime="1487009728534" />
+      <project id="mythos_dash" values="PYTHON_MODULE" collectionTime="1485285579510" />
+      <project id="impala" values="PYTHON_MODULE" collectionTime="1463704660504" />
+      <project id="labsfacebook" values="PYTHON_MODULE" collectionTime="1475706054596" />
+      <project id="tiger_service" values="PYTHON_MODULE" collectionTime="1485364242154" />
+    </group>
+    <group name="vcs">
+      <project id="hippo_service" values="Git" collectionTime="1487975000966" />
+      <project id="harrier_service" values="Git" collectionTime="1487975002973" />
+      <project id="labsfacebook" values="Git" collectionTime="1475706054593" />
+      <project id="mongoose_service" values="Git" collectionTime="1487009727094" />
+      <project id="eagle_service" values="Git" collectionTime="1485285573018" />
+      <project id="truss_service" values="Git" collectionTime="1485285575719" />
+      <project id="insight" values="Git" collectionTime="1483207016651" />
+      <project id="finch_service" values="Git" collectionTime="1486598920727" />
+      <project id="harrier" values="Git" collectionTime="1464990409830" />
+      <project id="rebar" values="Git" collectionTime="1469025285850" />
+      <project id="swarm-quarry-miners" values="Git" collectionTime="1476745562372" />
+      <project id="kruger_library" values="Git" collectionTime="1465251863728" />
+      <project id="acui_ms" values="Git" collectionTime="1468278834873" />
+      <project id="spider_service" values="Git" collectionTime="1465939922513" />
+      <project id="lark_service" values="Git" collectionTime="1486598946397" />
+      <project id="spider_util" values="Git" collectionTime="1487975001591" />
+      <project id="terrapin_service" values="Git" collectionTime="1486681949088" />
+      <project id="cheetah_service" values="Git" collectionTime="1483032541578" />
+      <project id="stork_service" values="Git" collectionTime="1472087026102" />
+      <project id="hyena_service" values="Git" collectionTime="1482461686106" />
+      <project id="chameleon_service" values="Git" collectionTime="1486229554171" />
+      <project id="rebar_tool" values="Git" collectionTime="1470426862044" />
+      <project id="yacare_service" values="Git" collectionTime="1486426657737" />
+      <project id="peregrine_service" values="Git" collectionTime="1467929339496" />
+      <project id="mpa" values="Git" collectionTime="1464370444560" />
+      <project id="yellow-hat" values="Git" collectionTime="1487009726394" />
+      <project id="octopus_service" values="Git" collectionTime="1485364245578" />
+      <project id="gannet_service" values="Git" collectionTime="1486598912674" />
+      <project id="kruger" values="Git" collectionTime="1488163903879" />
+      <project id="osprey_service" values="Git" collectionTime="1485285570055" />
+      <project id="pelican_service" values="Git" collectionTime="1486598941687" />
+      <project id="qa_tool" values="Git" collectionTime="1472593774471" />
+      <project id="impala_service" values="Git" collectionTime="1487975000004" />
+      <project id="springbok_service" values="Git" collectionTime="1486862984060" />
+      <project id="ocelot_service" values="Git" collectionTime="1487975002171" />
+      <project id="crane_service" values="Git" collectionTime="1488163903121" />
+      <project id="rhino_service" values="Git" collectionTime="1487009728534" />
+      <project id="impala" values="Git" collectionTime="1463704660504" />
+      <project id="grebe_service" values="Git" collectionTime="1486598884046" />
+      <project id="tiger_service" values="Git" collectionTime="1485364242153" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="qa_tool" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1472593774481" />
+      <project id="impala_service" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1487975000057" />
+      <project id="hyena_service" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1482461686111" />
+      <project id="hippo_service" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1487975000974" />
+      <project id="yacare_service" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1486426657743" />
+      <project id="insight" values="data.commit.count.10K+,data.git.root.count.1" collectionTime="1483207016709" />
+      <project id="lark_service" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1486598946401" />
+      <project id="cheetah_service" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1483032541587" />
+      <project id="octopus_service" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1485364245582" />
+      <project id="stork_service" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1472087026106" />
+      <project id="chameleon_service" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1486229554179" />
+      <project id="finch_service" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1486598920730" />
+      <project id="ocelot_service" values="data.git.root.count.1,data.commit.count.1K+" collectionTime="1487975002183" />
+      <project id="eagle_service" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1485285573023" />
+      <project id="pelican_service" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1486598941692" />
+      <project id="grebe_service" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1486598884053" />
+      <project id="labsfacebook" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1475706054681" />
+      <project id="rebar_tool" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1470426862046" />
+      <project id="springbok_service" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1486862984074" />
+      <project id="osprey_service" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1485285570065" />
+      <project id="swarm-quarry-miners" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1476745562479" />
+      <project id="harrier_service" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1487975002981" />
+      <project id="gannet_service" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1486598912677" />
+      <project id="spider_util" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1487975001598" />
+      <project id="crane_service" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1488163903152" />
+      <project id="terrapin_service" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1486681949093" />
+      <project id="truss_service" values="data.commit.count.1K+,data.git.root.count.1" collectionTime="1485285575724" />
+      <project id="kruger" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1488163903890" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="octopus_service" values="PythonConfigurationType" collectionTime="1485364245578" />
+      <project id="eagle_service" values="PythonConfigurationType" collectionTime="1485285573018" />
+      <project id="mythos_dash" values="PythonConfigurationType" collectionTime="1485285579510" />
+      <project id="impala_service" values="PythonConfigurationType" collectionTime="1487975000005" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="impala_service" values="PythonConfigurationType" collectionTime="1487975000005" />
+      <project id="crane_service" values="PythonConfigurationType" collectionTime="1488163903122" />
+      <project id="mongoose_service" values="PythonConfigurationType" collectionTime="1487009727094" />
+      <project id="hippo_service" values="PythonConfigurationType" collectionTime="1487975000966" />
+      <project id="tosplugs" values="PythonConfigurationType" collectionTime="1464903883881" />
+      <project id="rebar_tool" values="PythonConfigurationType" collectionTime="1470426862044" />
+      <project id="tiger_service" values="PythonConfigurationType" collectionTime="1485364242155" />
+      <project id="boomslang_service" values="PythonConfigurationType" collectionTime="1486229586937" />
+      <project id="truss_service" values="PythonConfigurationType" collectionTime="1485285575719" />
+      <project id="stork_service" values="PythonConfigurationType,tests.Unittests" collectionTime="1472087026102" />
+      <project id="chameleon_service" values="PythonConfigurationType" collectionTime="1486229554171" />
+      <project id="finch_service" values="PythonConfigurationType" collectionTime="1486598920727" />
+      <project id="ocelot_service" values="PythonConfigurationType,BashConfigurationType" collectionTime="1487975002171" />
+      <project id="eagle_service" values="PythonConfigurationType" collectionTime="1485285573018" />
+      <project id="cheetah_service" values="tests.Unittests" collectionTime="1483032541578" />
+      <project id="grebe_service" values="PythonConfigurationType" collectionTime="1486598884046" />
+      <project id="springbok_service" values="PythonConfigurationType" collectionTime="1486862984060" />
+      <project id="osprey_service" values="PythonConfigurationType" collectionTime="1485285570056" />
+      <project id="rhino_service" values="docker-deploy,PythonConfigurationType" collectionTime="1487009728534" />
+      <project id="harrier_service" values="PythonConfigurationType" collectionTime="1487975002973" />
+      <project id="rebar" values="PythonConfigurationType" collectionTime="1469025285850" />
+      <project id="octopus_service" values="PythonConfigurationType,tests.Nosetests" collectionTime="1485364245578" />
+      <project id="terrapin_service" values="PythonConfigurationType" collectionTime="1486681949088" />
+      <project id="peregrine_service" values="docker-deploy,PythonConfigurationType" collectionTime="1467929339497" />
+      <project id="yacare_service" values="PythonConfigurationType" collectionTime="1486426657737" />
+      <project id="kruger" values="tests.Unittests" collectionTime="1488163903879" />
+      <project id="untitled" values="PythonConfigurationType" collectionTime="1477947340086" />
+    </group>
+    <group name="file-type">
+      <project id="hippo_service" values="Markdown,Dockerfile,PLAIN_TEXT,Git file,JSON,YAML,Python" collectionTime="1487975000974" />
+      <project id="harrier_service" values="UNKNOWN,JSON,YAML,Dockerfile,Python,Markdown,Git file,PLAIN_TEXT" collectionTime="1487975002981" />
+      <project id="untitled" values="Python" collectionTime="1477947340102" />
+      <project id="mongoose_service" values="JSON,Git file,Python,YAML,Dockerfile,PLAIN_TEXT,Markdown" collectionTime="1487009727109" />
+      <project id="eagle_service" values="Git file,Dockerfile,YAML,JSON,Python,Bash,Markdown,PLAIN_TEXT" collectionTime="1485285573023" />
+      <project id="truss_service" values="Terraform,Git file,JSON,Markdown,YAML,Python,PLAIN_TEXT,Bash" collectionTime="1485285575723" />
+      <project id="insight" values="Python,PLAIN_TEXT,JSON,UNKNOWN,HTML,Bash,Ini,SQL,IPNB,JavaScript,Markdown" collectionTime="1483207016684" />
+      <project id="finch_service" values="Dockerfile,Git file,JSON,YAML,Markdown,PLAIN_TEXT,Python,Docker file" collectionTime="1486598920730" />
+      <project id="harrier" values="Dockerfile,Markdown,Python,JSON,YAML,Bash,PLAIN_TEXT" collectionTime="1464990409845" />
+      <project id="rebar" values="JSON,Bash,PLAIN_TEXT,Python,YAML,Dockerfile,Markdown" collectionTime="1469025285860" />
+      <project id="peregrine_service" values="YAML,Python,Bash,PLAIN_TEXT,UNKNOWN,Dockerfile,Markdown" collectionTime="1467929339529" />
+      <project id="swarm-quarry-miners" values="Markdown,PLAIN_TEXT" collectionTime="1476745562471" />
+      <project id="kruger_library" values="YAML,Python,Bash,PLAIN_TEXT,Markdown,JSON" collectionTime="1465251863733" />
+      <project id="acui_ms" values="Python,Dockerfile,JSON,PLAIN_TEXT,Bash,YAML" collectionTime="1468278834881" />
+      <project id="spider_service" values="XML,JSON,Ini,PLAIN_TEXT,JavaScript,YAML,CSS,HTML,Dockerfile,Markdown,Images,Python,UNKNOWN,SourceMap,Bash" collectionTime="1465939922528" />
+      <project id="lark_service" values="Git file,Python,Markdown,JSON,Docker file,Dockerfile,PLAIN_TEXT,YAML" collectionTime="1486598946401" />
+      <project id="spider_util" values="Markdown,JSON,Git file,Bash,UNKNOWN,YAML,Python,PLAIN_TEXT,Cypher" collectionTime="1487975001597" />
+      <project id="terrapin_service" values="Python,Cypher,Markdown,Bash,PLAIN_TEXT,YAML,UNKNOWN,Dockerfile" collectionTime="1486681949093" />
+      <project id="cheetah_service" values="Python,Markdown,Dockerfile,YAML,Git file,PLAIN_TEXT" collectionTime="1483032541586" />
+      <project id="ocelot_service" values="JSON,YAML,Markdown,Git file,Dockerfile,Bash,PLAIN_TEXT,Python" collectionTime="1487975002182" />
+      <project id="stork_service" values="YAML,Python,Git file,PLAIN_TEXT,Dockerfile,Markdown" collectionTime="1472087026106" />
+      <project id="hyena_service" values="Markdown,PLAIN_TEXT,Python,HTML,YAML" collectionTime="1482461686111" />
+      <project id="chameleon_service" values="PLAIN_TEXT,Bash,YAML,Dockerfile,UNKNOWN,Python,Markdown" collectionTime="1486229554179" />
+      <project id="rebar_tool" values="Bash,Dockerfile,Python,Markdown,JSON Schema,PLAIN_TEXT,YAML" collectionTime="1470426862046" />
+      <project id="grebe_service" values="Markdown,PLAIN_TEXT,Python,JSON,Git file,Ini,Dockerfile,YAML" collectionTime="1486598884053" />
+      <project id="yacare_service" values="PLAIN_TEXT,Docker file,Git file,JSON,Python,Dockerfile,Markdown,YAML" collectionTime="1486426657743" />
+      <project id="crane_service" values="YAML,JSON,HTML,PLAIN_TEXT,Dockerfile,Markdown,Python" collectionTime="1488163903151" />
+      <project id="yellow-hat" values="Markdown,YAML,Git file" collectionTime="1487009726407" />
+      <project id="flamingo_service" values="Bash,PLAIN_TEXT,Git file,Markdown,Python,Dockerfile" collectionTime="1485906561757" />
+      <project id="octopus_service" values="Dockerfile,Cypher,Git file,YAML,Markdown,Python,PLAIN_TEXT" collectionTime="1485364245581" />
+      <project id="gannet_service" values="PLAIN_TEXT,YAML,Git file,Python,Dockerfile,Markdown,JSON" collectionTime="1486598912677" />
+      <project id="kruger" values="Git file,JSON,Python,Bash,YAML,Markdown,PLAIN_TEXT" collectionTime="1488163903889" />
+      <project id="osprey_service" values="Python,PLAIN_TEXT,YAML,Dockerfile,Markdown" collectionTime="1485285570065" />
+      <project id="oryx_service" values="Markdown,Dockerfile,Python,JSON,PLAIN_TEXT,YAML" collectionTime="1485906561742" />
+      <project id="pelican_service" values="YAML,PLAIN_TEXT,Git file,Markdown,Python,Dockerfile" collectionTime="1486598941691" />
+      <project id="qa_tool" values="Python,JSON Schema,Cucumber,Markdown,Git file,PLAIN_TEXT,Ini,UNKNOWN" collectionTime="1472593774481" />
+      <project id="impala_service" values="Bash,Markdown,PLAIN_TEXT,Git file,Python,YAML,UNKNOWN,Dockerfile" collectionTime="1487975000056" />
+      <project id="boomslang_service" values="Dockerfile,UNKNOWN,YAML,Python,Markdown,Bash,PLAIN_TEXT" collectionTime="1486229586941" />
+      <project id="springbok_service" values="YAML,PLAIN_TEXT,Git file,Python,Markdown,Dockerfile,Bash" collectionTime="1486862984074" />
+      <project id="mpa" values="JSON,JavaScript,Markdown,Ini,Bash,Python,ReST,UNKNOWN,PLAIN_TEXT" collectionTime="1464370444621" />
+      <project id="lele" values="JSON,Dockerfile,Markdown,PLAIN_TEXT,Python,YAML" collectionTime="1469030255405" />
+      <project id="tosplugs" values="Python" collectionTime="1464903883886" />
+      <project id="rhino_service" values="Bash,Python,PLAIN_TEXT,Dockerfile,YAML,Ini,Markdown,JSON,Git file" collectionTime="1487009728542" />
+      <project id="mythos_dash" values="Python" collectionTime="1485285579513" />
+      <project id="impala" values="Dockerfile,Python,YAML,XML,PLAIN_TEXT,Markdown" collectionTime="1463704660511" />
+      <project id="labsfacebook" values="Python,UNKNOWN,JSON,PLAIN_TEXT,Git file,JavaScript,XML,Markdown,CSS,JSON Schema,Images,HTML,SourceMap" collectionTime="1475706054665" />
+      <project id="tiger_service" values="Dockerfile,Python,Markdown,PLAIN_TEXT,JSON,YAML" collectionTime="1485364242194" />
+    </group>
+    <group name="py-packages">
+      <project id="lele" values="requests,flake8,gevent,ujson,coverage,nose,PyYAML" collectionTime="1469030255469" />
+      <project id="kruger" values="jmespath,urllib3,retrying,hiredis,six,cassandra-driver,ujson,httpretty,botocore,PyYAML,contexttimer,docutils,requests,elasticsearch,python-dateutil,nose-parameterized,redis,flatdict,PyJWT,boto3" collectionTime="1488163903975" />
+      <project id="mpa" values="jsonschema,flake8,Flask-RESTful,uWSGI,itsdangerous,netifaces,gevent,six,numexpr,Jinja2,dogstatsd-python,requests,graypy,ipython,pandas,Flask-Mail,tornado,redis,pytz,billiard,grequests,msgpack-python,mongokit,Flask,kombu,pyzmq,enum34,numpy,wsgiref,argparse,amqp,psutil,circus,greenlet,iowait,blinker,Flask-DebugToolbar,python-dateutil,ujson,celery,WebOb,pymongo,MarkupSafe,tzlocal" collectionTime="1464370444718" />
+      <project id="harrier" values="conditional,flatdict,ujson,nose-parameterized,testfixtures,nose,facebookads,flake8,more-itertools,coverage,PyYAML,dumb-init,requests,Flask" collectionTime="1464990409908" />
+      <project id="rebar" values="PyYAML" collectionTime="1469025285938" />
+      <project id="rhino_service" values="Werkzeug,MarkupSafe,Flask-RESTful,aniso8601,Flask,itsdangerous,ply,Flask-API,numpy,Jinja2,XlsxWriter,nose,pytz" collectionTime="1487009728670" />
+    </group>
+    <group name="py-interpreter">
+      <project id="hippo_service" values="Python 3.4.4 [virtualenv]" collectionTime="1487975000975" />
+      <project id="harrier_service" values="Python 3.4.4 [virtualenv]" collectionTime="1487975002981" />
+      <project id="untitled" values="Python 3.4.4 [virtualenv]" collectionTime="1477947340103" />
+      <project id="mongoose_service" values="Python 3.4.4 [virtualenv]" collectionTime="1487009727110" />
+      <project id="eagle_service" values="Python 3.4.4 [virtualenv]" collectionTime="1485285573024" />
+      <project id="truss_service" values="Python 3.4.4 [virtualenv]" collectionTime="1485285575724" />
+      <project id="insight" values="Python 2.7 [virtualenv]" collectionTime="1483207016709" />
+      <project id="finch_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486598920730" />
+      <project id="harrier" values="Python 3.4.4 [virtualenv]" collectionTime="1464990409846" />
+      <project id="rebar" values="Python 3.4.4 [virtualenv]" collectionTime="1469025285861" />
+      <project id="peregrine_service" values="Python 3.4.4 [virtualenv]" collectionTime="1467929339533" />
+      <project id="swarm-quarry-miners" values="Python 3.4.4 [virtualenv]" collectionTime="1476745562483" />
+      <project id="kruger_library" values="Python 3.4.4 [virtualenv]" collectionTime="1465251863733" />
+      <project id="acui_ms" values="Python 3.4.4 [virtualenv]" collectionTime="1468278834881" />
+      <project id="spider_service" values="Python 3.4.4 [virtualenv]" collectionTime="1465939922532" />
+      <project id="lark_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486598946401" />
+      <project id="spider_util" values="Python 3.4.4 [virtualenv]" collectionTime="1487975001598" />
+      <project id="terrapin_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486681949093" />
+      <project id="cheetah_service" values="Python 3.4.4 [virtualenv]" collectionTime="1483032541587" />
+      <project id="ocelot_service" values="Python 3.4.4 [virtualenv]" collectionTime="1487975002183" />
+      <project id="stork_service" values="Python 3.4.4 [virtualenv]" collectionTime="1472087026106" />
+      <project id="hyena_service" values="Python 3.4.4" collectionTime="1482461686111" />
+      <project id="chameleon_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486229554179" />
+      <project id="rebar_tool" values="Python 3.4.4 [virtualenv]" collectionTime="1470426862046" />
+      <project id="grebe_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486598884053" />
+      <project id="yacare_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486426657743" />
+      <project id="crane_service" values="Python 3.4.4 [virtualenv]" collectionTime="1488163903153" />
+      <project id="yellow-hat" values="Python 3.4.4 [virtualenv]" collectionTime="1487009726407" />
+      <project id="flamingo_service" values="Python 3.4.4 [virtualenv]" collectionTime="1485906561757" />
+      <project id="octopus_service" values="Python 3.4.4 [virtualenv]" collectionTime="1485364245582" />
+      <project id="gannet_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486598912678" />
+      <project id="kruger" values="Python 3.4.4 [virtualenv]" collectionTime="1488163903890" />
+      <project id="osprey_service" values="Python 3.4.4 [virtualenv]" collectionTime="1485285570066" />
+      <project id="oryx_service" values="Python 3.4.4 [virtualenv]" collectionTime="1485906561742" />
+      <project id="pelican_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486598941692" />
+      <project id="qa_tool" values="Python 3.4.4 [virtualenv]" collectionTime="1472593774481" />
+      <project id="impala_service" values="Python 3.4.4 [virtualenv]" collectionTime="1487975000058" />
+      <project id="boomslang_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486229586941" />
+      <project id="springbok_service" values="Python 3.4.4 [virtualenv]" collectionTime="1486862984075" />
+      <project id="mpa" values="Python 3.4.4 [virtualenv]" collectionTime="1464370444627" />
+      <project id="lele" values="Python 3.4.4 [virtualenv]" collectionTime="1469030255406" />
+      <project id="tosplugs" values="Python 3.4.4 [virtualenv]" collectionTime="1464903883887" />
+      <project id="rhino_service" values="Python 3.4.4 [virtualenv]" collectionTime="1487009728544" />
+      <project id="mythos_dash" values="Python 3.4.4 [virtualenv]" collectionTime="1485285579513" />
+      <project id="impala" values="Python 3.4.4 [virtualenv]" collectionTime="1463704660514" />
+      <project id="labsfacebook" values="Python 2.7 [virtualenv]" collectionTime="1475706054683" />
+      <project id="tiger_service" values="Python 3.4.4 [virtualenv]" collectionTime="1485364242194" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="hippo_service" values="Project,Project" collectionTime="1487975000975" />
+      <project id="harrier_service" values="Project,Project" collectionTime="1487975002981" />
+      <project id="untitled" values="Project,Project" collectionTime="1477947340215" />
+      <project id="mongoose_service" values="Project,Project" collectionTime="1487009727111" />
+      <project id="eagle_service" values="Project,Project" collectionTime="1485285573043" />
+      <project id="truss_service" values="Project,Project" collectionTime="1485285575724" />
+      <project id="insight" values="Project,Project" collectionTime="1483207016720" />
+      <project id="finch_service" values="Project,Project" collectionTime="1486598920730" />
+      <project id="harrier" values="Project,Project" collectionTime="1464990409923" />
+      <project id="rebar" values="Project,Project" collectionTime="1469025285941" />
+      <project id="peregrine_service" values="Project,Project" collectionTime="1467929339620" />
+      <project id="swarm-quarry-miners" values="Project,Project" collectionTime="1476745562506" />
+      <project id="kruger_library" values="Project,Project" collectionTime="1465251863734" />
+      <project id="acui_ms" values="Project,Project" collectionTime="1468278834896" />
+      <project id="spider_service" values="Project,Project" collectionTime="1465939922612" />
+      <project id="lark_service" values="Project,Project" collectionTime="1486598946401" />
+      <project id="spider_util" values="Project,Project" collectionTime="1487975001599" />
+      <project id="terrapin_service" values="Project,Project" collectionTime="1486681949094" />
+      <project id="cheetah_service" values="Project,Project" collectionTime="1483032541623" />
+      <project id="ocelot_service" values="Project,Project" collectionTime="1487975002184" />
+      <project id="stork_service" values="Project,Project" collectionTime="1472087026107" />
+      <project id="hyena_service" values="Project,Project" collectionTime="1482461686111" />
+      <project id="chameleon_service" values="Project,Project" collectionTime="1486229554180" />
+      <project id="rebar_tool" values="Project,Project" collectionTime="1470426862048" />
+      <project id="grebe_service" values="Project,Project" collectionTime="1486598884057" />
+      <project id="yacare_service" values="Project,Project" collectionTime="1486426657743" />
+      <project id="crane_service" values="Project,Project" collectionTime="1488163903254" />
+      <project id="yellow-hat" values="Project,Project" collectionTime="1487009726408" />
+      <project id="flamingo_service" values="Project,Project" collectionTime="1485906561758" />
+      <project id="octopus_service" values="Project,Project" collectionTime="1485364245582" />
+      <project id="gannet_service" values="Project,Project" collectionTime="1486598912678" />
+      <project id="kruger" values="Project,Project" collectionTime="1488163903975" />
+      <project id="osprey_service" values="Project,Project" collectionTime="1485285570066" />
+      <project id="oryx_service" values="Project,Project" collectionTime="1485906561742" />
+      <project id="pelican_service" values="Project,Project" collectionTime="1486598941692" />
+      <project id="qa_tool" values="Project,Project" collectionTime="1472593774483" />
+      <project id="impala_service" values="Project,Project" collectionTime="1487975000191" />
+      <project id="boomslang_service" values="Project,Project" collectionTime="1486229586941" />
+      <project id="springbok_service" values="Project,Project" collectionTime="1486862984076" />
+      <project id="mpa" values="Project,Project" collectionTime="1464370444746" />
+      <project id="lele" values="Project,Project" collectionTime="1469030255472" />
+      <project id="tosplugs" values="Project,Project" collectionTime="1464903883887" />
+      <project id="rhino_service" values="Project,Project" collectionTime="1487009728671" />
+      <project id="mythos_dash" values="Project,Project" collectionTime="1485285579513" />
+      <project id="impala" values="Project,Project" collectionTime="1463704660558" />
+      <project id="labsfacebook" values="Project,Project" collectionTime="1475706054751" />
+      <project id="tiger_service" values="Project,Project" collectionTime="1485364242301" />
+    </group>
+    <group name="Git">
+      <project id="hippo_service" values="config.update.type.BRANCH_DEFAULT,data.local.branches.count.8+,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.15+,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1487975000975" />
+      <project id="harrier_service" values="config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH,data.local.branches.count.15+,config.push.autoupdate.disabled,data.remote.branches.count.15+,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1487975002981" />
+      <project id="untitled" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1477947340105" />
+      <project id="mongoose_service" values="config.force.push.enabled,config.ssh.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.remote.branches.count.5+,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1487009727111" />
+      <project id="eagle_service" values="config.repo.sync.NOT_DECIDED,data.local.branches.count.8+,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remote.branches.count.30+,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1485285573024" />
+      <project id="truss_service" values="config.push.update.all.roots.enabled,data.remote.branches.count.8+,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,data.local.branches.count.5+,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1485285575724" />
+      <project id="insight" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,data.remote.branches.count.100+,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1483207016714" />
+      <project id="finch_service" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,data.remote.branches.count.8+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1486598920730" />
+      <project id="harrier" values="data.local.branches.count.2+,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remote.branches.count.2+,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1464990409916" />
+      <project id="rebar" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,data.local.branches.count.2+,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.ssh.enabled,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED" collectionTime="1469025285938" />
+      <project id="peregrine_service" values="config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.remotes.in.project.1,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,data.local.branches.count.1" collectionTime="1467929339535" />
+      <project id="swarm-quarry-miners" values="config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,data.remotes.in.project.1,data.local.branches.count.2+,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.ssh.enabled" collectionTime="1476745562496" />
+      <project id="kruger_library" values="data.local.branches.count.2+,data.remotes.in.project.1,config.push.update.all.roots.enabled,data.remote.branches.count.8+,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1465251863733" />
+      <project id="acui_ms" values="config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.local.branches.count.1,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled" collectionTime="1468278834883" />
+      <project id="spider_service" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.8+,config.warn.about.crlf.enabled,config.save.policy.STASH,data.local.branches.count.2+,data.remotes.in.project.1,config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1465939922537" />
+      <project id="lark_service" values="config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.remote.branches.count.5+,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1486598946401" />
+      <project id="spider_util" values="config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.remote.branches.count.30+,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,data.local.branches.count.15+,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1487975001598" />
+      <project id="terrapin_service" values="config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.remote.branches.count.15+,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1486681949093" />
+      <project id="cheetah_service" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled,data.local.branches.count.2+,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,data.remote.branches.count.15+,config.force.push.enabled" collectionTime="1483032541589" />
+      <project id="ocelot_service" values="config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.remotes.in.project.1,data.local.branches.count.30+,config.ssh.enabled,data.remote.branches.count.30+,config.cherry-pick.autocommit.disabled" collectionTime="1487975002184" />
+      <project id="stork_service" values="data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remote.branches.count.15+" collectionTime="1472087026106" />
+      <project id="hyena_service" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,data.remote.branches.count.8+,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.local.branches.count.1,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED" collectionTime="1482461686111" />
+      <project id="chameleon_service" values="config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.remote.branches.count.15+,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1486229554180" />
+      <project id="rebar_tool" values="data.remote.branches.count.2+,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,data.local.branches.count.2+,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1470426862046" />
+      <project id="grebe_service" values="data.remote.branches.count.15+,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.ssh.enabled" collectionTime="1486598884053" />
+      <project id="yacare_service" values="config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.8+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,data.local.branches.count.5+,config.save.policy.STASH" collectionTime="1486426657743" />
+      <project id="crane_service" values="config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.30+,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.save.policy.STASH" collectionTime="1488163903153" />
+      <project id="yellow-hat" values="data.remote.branches.count.30+,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.local.branches.count.15+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1487009726407" />
+      <project id="flamingo_service" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1485906561757" />
+      <project id="octopus_service" values="config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.local.branches.count.5+,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.15+,config.ssh.enabled" collectionTime="1485364245582" />
+      <project id="gannet_service" values="config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.8+,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.local.branches.count.2+" collectionTime="1486598912678" />
+      <project id="kruger" values="config.force.push.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.local.branches.count.15+,data.remote.branches.count.30+" collectionTime="1488163903975" />
+      <project id="osprey_service" values="data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.local.branches.count.2+,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.remote.branches.count.8+,config.ssh.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1485285570066" />
+      <project id="oryx_service" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1485906561742" />
+      <project id="pelican_service" values="config.push.update.all.roots.enabled,data.local.branches.count.5+,config.force.push.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.8+,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1486598941692" />
+      <project id="qa_tool" values="config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.15+,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.push.autoupdate.disabled" collectionTime="1472593774481" />
+      <project id="impala_service" values="config.push.update.all.roots.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,data.local.branches.count.15+,config.save.policy.STASH,data.remote.branches.count.15+,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1487975000059" />
+      <project id="boomslang_service" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1486229586941" />
+      <project id="springbok_service" values="config.push.autoupdate.disabled,data.remote.branches.count.8+,data.remotes.in.project.1,data.local.branches.count.2+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1486862984076" />
+      <project id="mpa" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.100+,data.remotes.in.project.1,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled" collectionTime="1464370444722" />
+      <project id="lele" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled" collectionTime="1469030255469" />
+      <project id="tosplugs" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1464903883887" />
+      <project id="rhino_service" values="data.local.branches.count.5+,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.8+,config.push.update.all.roots.enabled" collectionTime="1487009728670" />
+      <project id="mythos_dash" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled" collectionTime="1485285579513" />
+      <project id="impala" values="data.local.branches.count.2+,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.remote.branches.count.5+,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1463704660516" />
+      <project id="labsfacebook" values="config.ssh.enabled,data.remotes.in.project.1,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,data.local.branches.count.2+,config.warn.about.crlf.enabled,data.remote.branches.count.30+,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1475706054687" />
+      <project id="tiger_service" values="config.push.update.all.roots.enabled,data.local.branches.count.1,config.force.push.enabled,data.remote.branches.count.8+,config.ssh.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1485364242195" />
+    </group>
+    <group name="images.ide.background">
+      <project id="harrier_service" values="frame 0,editor 0" collectionTime="1487975002981" />
+      <project id="untitled" values="frame 0,editor 0" collectionTime="1477947340102" />
+      <project id="mongoose_service" values="frame 0,editor 0" collectionTime="1487009727109" />
+      <project id="lark_service" values="editor 0,frame 0" collectionTime="1486598946401" />
+      <project id="eagle_service" values="editor 0,frame 0" collectionTime="1485285573023" />
+      <project id="truss_service" values="editor 0,frame 0" collectionTime="1485285575724" />
+      <project id="insight" values="editor 0,frame 0" collectionTime="1483207016709" />
+      <project id="finch_service" values="editor 0,frame 0" collectionTime="1486598920730" />
+      <project id="crane_service" values="editor=0,frame=0" collectionTime="1488163903152" />
+      <project id="swarm-quarry-miners" values="frame 0,editor 0" collectionTime="1476745562479" />
+      <project id="hippo_service" values="frame 0,editor 0" collectionTime="1487975000974" />
+      <project id="spider_util" values="frame 0,editor 0" collectionTime="1487975001598" />
+      <project id="terrapin_service" values="editor 0,frame 0" collectionTime="1486681949093" />
+      <project id="cheetah_service" values="editor 0,frame 0" collectionTime="1483032541587" />
+      <project id="stork_service" values="frame 0,editor 0" collectionTime="1472087026106" />
+      <project id="hyena_service" values="frame 0,editor 0" collectionTime="1482461686111" />
+      <project id="chameleon_service" values="editor 0,frame 0" collectionTime="1486229554179" />
+      <project id="rebar_tool" values="editor 0,frame 0" collectionTime="1470426862046" />
+      <project id="grebe_service" values="frame 0,editor 0" collectionTime="1486598884053" />
+      <project id="yacare_service" values="editor 0,frame 0" collectionTime="1486426657743" />
+      <project id="yellow-hat" values="editor 0,frame 0" collectionTime="1487009726407" />
+      <project id="flamingo_service" values="frame 0,editor 0" collectionTime="1485906561757" />
+      <project id="octopus_service" values="frame 0,editor 0" collectionTime="1485364245582" />
+      <project id="gannet_service" values="editor 0,frame 0" collectionTime="1486598912677" />
+      <project id="kruger" values="frame=0,editor=0" collectionTime="1488163903890" />
+      <project id="osprey_service" values="editor 0,frame 0" collectionTime="1485285570066" />
+      <project id="oryx_service" values="frame 0,editor 0" collectionTime="1485906561742" />
+      <project id="pelican_service" values="editor 0,frame 0" collectionTime="1486598941692" />
+      <project id="qa_tool" values="frame 0,editor 0" collectionTime="1472593774481" />
+      <project id="impala_service" values="editor 0,frame 0" collectionTime="1487975000057" />
+      <project id="boomslang_service" values="frame 0,editor 0" collectionTime="1486229586941" />
+      <project id="springbok_service" values="frame 0,editor 0" collectionTime="1486862984074" />
+      <project id="ocelot_service" values="editor 0,frame 0" collectionTime="1487975002183" />
+      <project id="rhino_service" values="editor 0,frame 0" collectionTime="1487009728542" />
+      <project id="mythos_dash" values="frame 0,editor 0" collectionTime="1485285579513" />
+      <project id="labsfacebook" values="editor 0,frame 0" collectionTime="1475706054681" />
+      <project id="tiger_service" values="editor 0,frame 0" collectionTime="1485364242194" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Flask" count="1" />
+      <entry feature="AbstractNewProjectStep.Pure Python" count="3" />
+      <entry feature="CreateFile.CreateFileAction" count="67" />
+      <entry feature="StripeButton[Version Control].shown" count="7" />
+      <entry feature="execute.BashConfigurationType.Run" count="78" />
+      <entry feature="execute.PythonConfigurationType.Coverage" count="4" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="1348" />
+      <entry feature="execute.PythonConfigurationType.Profiler" count="1" />
+      <entry feature="execute.PythonConfigurationType.Run" count="990" />
+      <entry feature="execute.docker-deploy.Run" count="3" />
+      <entry feature="execute.tests.Coverage" count="5" />
+      <entry feature="execute.tests.Debug" count="37" />
+      <entry feature="execute.tests.Run" count="83" />
+      <entry feature="git.branch.checkout.local" count="301" />
+      <entry feature="git.branch.checkout.remote" count="60" />
+      <entry feature="git.branch.compare" count="10" />
+      <entry feature="git.branch.create.new" count="168" />
+      <entry feature="git.branch.delete.local" count="11" />
+      <entry feature="git.branch.merge" count="33" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.Docker" count="1" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.Project_Interpreter" count="19" />
+      <entry feature="ide.settings.Project_Structure" count="6" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="98" />
+      <entry feature="terminal.mac" count="1" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>
